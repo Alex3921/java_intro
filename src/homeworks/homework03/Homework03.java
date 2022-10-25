@@ -411,12 +411,12 @@ public class Homework03 {
         int rand2 = (int) (Math.random() * (100 + 1));
         int rand3 = (int) (Math.random() * (100 + 1));
 
-        Boolean greater = rand1 > 2 && rand2 > 25 && rand3 > 25;
+        boolean greater = rand1 > 2 && rand2 > 25 && rand3 > 25;
 
         System.out.println("The three random numbers were: " +rand1+ "," +rand2+ "," + rand3);
         System.out.println("All greater than 25?");
 
-        if(greater == true) {
+        if(greater) {
             System.out.println("True");
         } else {
             System.out.println("False");
