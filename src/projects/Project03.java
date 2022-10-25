@@ -87,7 +87,7 @@ public class Project03 {
          * -If random number generated is a prime one, then print “THE NUMBER IS A PRIME NUMBER”.
          * -Otherwise, print “THE NUMBER IS NOT A PRIME NUMBER”
          *
-         * Prime number is a number that can be divided only by itself and 1. It cannot be divided by any other
+         * Prim number is a number that can be divided only by itself and 1. It cannot be divided by any other
          * number. The smallest prime number is 2 and 2 is the only even prime number.
          * So, from this definition, prime numbers between 1 and 35 are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31
          *
