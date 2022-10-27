@@ -164,7 +164,7 @@ public class Homework04 {
          * The second word in the str is = is
          * The third word in the str is = fun
          *
-         * NOTE:
+         * NOTES:
          * Make sure that you eliminate white spaces at the beginning and at the end of
          * words in the str.
          * Make sure that you converted all words to be in lower case in your results
