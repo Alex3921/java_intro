@@ -2,6 +2,7 @@ package homeworks.homework03;
 
 import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 import com.sun.xml.internal.bind.v2.util.EditDistance;
+import methods.ScannerHelper;
 
 import java.text.MessageFormat;
 import java.util.Scanner;
