@@ -246,7 +246,7 @@ public class Homework07 {
 
         for(String obj : arrayList) {
             if(obj.toLowerCase().startsWith("m")) objStartsWithM++;
-            if(obj.toLowerCase().startsWith("a") || obj.toLowerCase().startsWith("e")) objStartsWithAorE++;
+            if(!obj.toLowerCase().contains("a") && !obj.toLowerCase().contains("e")) objStartsWithAorE++;
         }
 
         System.out.println(objStartsWithM);
