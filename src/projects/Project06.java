@@ -36,7 +36,7 @@ public class Project06 {
         System.out.println("Expected output 5: true");
         System.out.println("Actual output: " + validatePassword("Abcd123!") + "\n");
 
-        System.out.println("\n------------------------Task 06------------------------\n");
+        System.out.println("\n------------------------Task 04------------------------\n");
         System.out.println("Test data 1: a@gmail.com");
         System.out.println("Expected output 1: false");
         System.out.println("Actual output: " + validateEmailAddress("a@gmail.com") + "\n");
